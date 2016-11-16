@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
--	[`0.1.7-beta`, `latest` (*0.1/Dockerfile*)](https://github.com/nexocrew/docker_3nigm4_ishtmdispatcher/0.1/Dockerfile)
+-	[`0.1.8-beta`, `latest` (*0.1/Dockerfile*)](https://github.com/nexocrew/docker_3nigm4_ishtmdispatcher/0.1/Dockerfile)
 
 # What is 3nigm4 "If Something Happens To Me" dispatcher?
 The Ishtm dispatcher manage the delivery of a mail notifying a "will" uploaded by another user who is no more interacting with the the system.
